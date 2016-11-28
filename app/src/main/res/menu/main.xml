@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_open"
+        android:title="扫一扫"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_new"
+        android:title="消息"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_del"
+        android:title="上传自己的商品"
+        app:showAsAction="never"/>
+
+</menu>
